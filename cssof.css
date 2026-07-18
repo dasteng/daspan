@@ -25,6 +25,7 @@ img {
   gap: 100px;
 }
 .name {
+  font-family: 'Playfair Display', serif;
   align-self: flex-start;
   font-size: 30px;
   margin-left: 290px;
